@@ -18,3 +18,11 @@ My GitHub now have following structure:
 We paste the instruction below into the env-vars.yml file.
 ![image](https://user-images.githubusercontent.com/113097621/229074085-34233ffb-7b74-4145-96b2-2edbf5ba77a9.png)
 
+
+On Jenkins-Ansible server make sure that git is installed with git --version, then go to ‘ansible-config-mgt’ directory and run
+![image](https://user-images.githubusercontent.com/113097621/229803816-4a7a9eb6-be8a-4cdd-b748-59e2d2af8286.png)
+  
+  
+Inside roles directory create your new MySQL role with ansible-galaxy install geerlingguy.mysql and rename the folder to mysql
+  
+  
