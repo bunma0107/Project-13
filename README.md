@@ -29,3 +29,7 @@ Inside roles directory create your new MySQL role with ansible-galaxy install ge
 ![image](https://user-images.githubusercontent.com/113097621/233853433-1dc4931c-e70e-407d-a5cc-dba5f5d09b83.png)
 
 ![image](https://user-images.githubusercontent.com/113097621/233853704-59d6ed14-1be4-49d5-a726-06f559d69d4e.png)
+
+Uncomment my My Databases and Users
+![image](https://user-images.githubusercontent.com/113097621/233857812-4068bc36-65aa-4909-a7c3-1d82021795a6.png)
+
