@@ -25,4 +25,7 @@ On Jenkins-Ansible server make sure that git is installed with git --version, th
   
 Inside roles directory create your new MySQL role with ansible-galaxy install geerlingguy.mysql and rename the folder to mysql
   
-  
+  Inside roles directory create your new MySQL role with ansible-galaxy install geerlingguy.mysql and rename the folder to mysql
+![image](https://user-images.githubusercontent.com/113097621/233853433-1dc4931c-e70e-407d-a5cc-dba5f5d09b83.png)
+
+![image](https://user-images.githubusercontent.com/113097621/233853704-59d6ed14-1be4-49d5-a726-06f559d69d4e.png)
