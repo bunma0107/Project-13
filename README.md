@@ -33,3 +33,14 @@ Inside roles directory create your new MySQL role with ansible-galaxy install ge
 Uncomment my My Databases and Users
 ![image](https://user-images.githubusercontent.com/113097621/233857812-4068bc36-65aa-4909-a7c3-1d82021795a6.png)
 
+Load Balancer roles
+Load Balancer roles
+
+We want to be able to choose which Load Balancer to use, Nginx or Apache, so we need to have two roles respectively:
+
+    Nginx
+    Apache
+
+![image](https://user-images.githubusercontent.com/113097621/234010022-a75484ba-63eb-473c-9958-8133e4e0575c.png)
+
+
